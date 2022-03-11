@@ -1,0 +1,12 @@
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\VideTravel.csproj.AssemblyReference.cache
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\VideTravel.GeneratedMSBuildEditorConfig.editorconfig
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\VideTravel.AssemblyInfoInputs.cache
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\VideTravel.AssemblyInfo.cs
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\VideTravel.csproj.CoreCompileInputs.cache
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\VideoTravel.MvcApplicationPartsAssemblyInfo.cs
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\VideoTravel.MvcApplicationPartsAssemblyInfo.cache
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\VideTravel.RazorAssemblyInfo.cache
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\VideTravel.RazorAssemblyInfo.cs
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\VideoTravel.dll
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\ref\VideoTravel.dll
+F:\CodingProjects\RiderProjects\VideoTravel\VideTravel\obj\Debug\net6.0\VideoTravel.pdb
